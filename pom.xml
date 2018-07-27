@@ -314,7 +314,7 @@
           <version>2.1</version>
           <configuration>
             <path>/</path>
-            <port>8008</port>
+            <port>8080</port>
             <!-- 也可以用这种配置方法。下面两句只选一种 <warFile>path/to/my/jsm.war</warFile> -->
             <warDirectory>D:\job\idea\workspaces\mia-desktop\mia-web\target\desktop.war</warDirectory>
           </configuration>
